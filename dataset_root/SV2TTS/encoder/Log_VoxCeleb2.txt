@@ -1,0 +1,17 @@
+Creating dataset VoxCeleb2 on Sunday 26 May 2024 at 10:43
+-----
+Parameter values:
+	audio_norm_target_dBFS: -30
+	inference_n_frames: 80
+	mel_n_channels: 40
+	mel_window_length: 25
+	mel_window_step: 10
+	partials_n_frames: 160
+	sampling_rate: 16000
+	vad_max_silence_length: 6
+	vad_moving_average_width: 8
+	vad_window_length: 30
+-----
+Statistics:
+-----
+Finished on Sunday 26 May 2024 at 10:43

@@ -1,0 +1,1 @@
+12932_102_12932_000000_000001.npy,F:\Voice cloning\Real-Time-Voice-Cloning\dataset_root\LibriSpeech\train-other-500\102\12932\102_12932_000000_000001.flac
