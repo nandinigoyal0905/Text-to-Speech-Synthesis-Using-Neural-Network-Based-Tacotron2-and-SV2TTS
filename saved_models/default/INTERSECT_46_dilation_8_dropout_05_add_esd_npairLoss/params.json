@@ -1,0 +1,15 @@
+{
+    "lr": 0.001,
+    "beta1": 0.93,
+    "beta2": 0.98,  
+    "dropout": 0.5,
+    "random_seed": 46,
+    "activation": "relu",
+    "filter_size": 39,
+    "dilation_size": 8,
+    "bidirection": "True",
+    "kernel_size": 2,
+    "stack_size": 1,
+    "split_fold": 10,
+    "gpu": "0"
+}
